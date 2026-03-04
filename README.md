@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0a1a00,50:0d2600,75:1a4d00,100:39ff14&height=300&section=header&text=SAIKIRAN%20PUTTA%20V.V&fontSize=52&fontColor=39ff14&fontAlignY=42&fontAlign=50&stroke=ffd700&strokeWidth=3&desc=◈%20AI%20%26%20ML%20ENGINEER%20◈%20PYTHON%20DEVELOPER%20◈%20NSRIT%20VIZAG%20◈&descAlignY=62&descSize=14&descAlign=50&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:0d2600,100:39ff14&height=280&section=header&text=SAIKIRAN%20PUTTA%20V.V&fontSize=52&fontColor=39ff14&fontAlignY=40&fontAlign=50&stroke=ffd700&strokeWidth=3&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a1a00,100:000000&height=40&text=◈%20AI%20%26%20ML%20ENGINEER%20◈%20PYTHON%20DEVELOPER%20◈%20NSRIT%20VISAKHAPATNAM%20◈&fontSize=13&fontColor=ffd700&fontAlignY=60"/>
 
 </div>
 
