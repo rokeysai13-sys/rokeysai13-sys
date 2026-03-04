@@ -7,9 +7,17 @@
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+in+training+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;B.Tech+CS+%26+ML+%40+NSRIT+%F0%9F%8E%93;Always+learning%2C+always+building+%E2%AD%90" alt="Animated text: AI &amp; ML Engineer in training | Python Developer | B.Tech CS &amp; ML @ NSRIT | Always learning, always building" />
+
+</div>
+
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a1a00?style=for-the-badge&logo=linkedin&logoColor=39ff14)](https://www.linkedin.com/in/sai-kiran-putta-v-v-421497310)
 [![Gmail](https://img.shields.io/badge/Gmail-0a1a00?style=for-the-badge&logo=gmail&logoColor=ffd700)](mailto:rokeysai13@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0a1a00?style=for-the-badge&logo=github&logoColor=39ff14)](https://github.com/rokeysai13-sys)
+
+![Profile view counter badge](https://komarev.com/ghpvc/?username=rokeysai13-sys&style=for-the-badge&color=39ff14&labelColor=0a1a00&label=PROFILE+VIEWS)
 
 </div>
 
@@ -30,11 +38,11 @@
 ║    ╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚═╝     ╚═╝╚══════╝╚══════╝        ║
 ║                                                                  ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  ▶  BOOTING SYSTEM...                          ██████░░  75%     ║
+║  ▶  BOOTING SYSTEM...                          ████████  100%    ║
 ║  ▶  LOADING AI CORE...                         ████████  100%    ║
 ║  ▶  SYNCING GITHUB...                          ████████  100%    ║
 ║                                                                  ║
-║  ✔  ONLINE  │  USER: SAIKIRAN PUTTA V.V  │  BATCH: 2025–2029  │  🟢      ║
+║  ✔  ONLINE  │  USER: SAIKIRAN PUTTA V.V  │  BATCH: 2025–2029  🟢  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -225,6 +233,10 @@ if __name__ == "__main__":
 
 <div align="center">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rokeysai13-sys&bg_color=000000&hide_border=true&line=39ff14&point=ffd700&color=ffd700&area=true&area_color=0d2600&title_color=39ff14"/>
+</div>
+
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/rokeysai13-sys/rokeysai13-sys/output/dist/github-contribution-grid-snake-dark.svg" alt="GitHub contribution grid snake animation"/>
 </div>
 
 ---
